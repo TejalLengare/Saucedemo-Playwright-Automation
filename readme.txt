@@ -1,4 +1,4 @@
-# Name: saucedemo-playwright-ts
+Name: saucedemo-playwright-ts
 
 # Sauce Demo E2E Tests
 
